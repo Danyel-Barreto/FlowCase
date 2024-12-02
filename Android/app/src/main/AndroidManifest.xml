@@ -25,7 +25,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="demo"/>
-        <data android:scheme="com.amarjanica.reactnativesqliteexpodemo"/>
+        <data android:scheme="www.google.com.br"/>
       </intent-filter>
     </activity>
   </application>
