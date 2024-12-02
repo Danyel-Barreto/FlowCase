@@ -1,4 +1,4 @@
-# React Native SQLite Expo Demo
+# FlowCase
 
 A demo application built with Expo and React Native, showcasing the integration of SQLite 
 using expo-sqlite within an expo-router project. This app serves as an example of:
