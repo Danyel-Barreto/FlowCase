@@ -1,0 +1,3 @@
+[submodule "android/android/FlowCase"]
+	path = android/android/FlowCase
+	url = https://github.com/Danyel-Barreto/FlowCase
